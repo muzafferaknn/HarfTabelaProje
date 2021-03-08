@@ -1,0 +1,132 @@
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\ApplicationInsights.config
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\csc.exe
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\vbc.exe
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll.config
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.pdb
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.xml
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.dll
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.pdb
+C:\Users\muzaffer\Source\Repos\yasin0429\YeniTabela\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\ApplicationInsights.config
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\csc.exe
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\vbc.exe
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll.config
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.pdb
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.xml
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.dll
+C:\Users\Yasin\Source\Repos\YeniTabela\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.pdb
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\ApplicationInsights.config
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\csc.exe
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\vbc.exe
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll.config
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.pdb
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.xml
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.dll
+C:\Users\Yasin\Documents\Visual Studio 2015\Projects\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.pdb
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\ApplicationInsights.config
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\csc.exe
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\vbc.exe
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll.config
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\HarfTabelaProje.pdb
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.Web.xml
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.csprojResolveAssemblyReference.cache
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.dll
+C:\Users\Muzaffer\Desktop\EnYeniTabelaProjesi-master\HarfTabelaProje\HarfTabelaProje\obj\Debug\HarfTabelaProje.pdb

@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\muzaffer\Source\Repos\HarfTabela</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>03/06/2019 22:37:44</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>03/06/2019 22:37:44</publishTime>
+    </File>
+    <File Include="bin/HarfTabelaProje.dll">
+      <publishTime>03/06/2019 22:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>03/06/2019 22:35:14</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/06/2019 22:37:39</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/.DS_Store">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/animate.min.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/bootstrap.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/bootstrap.map">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/bootstrap/bootstrap-grid.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/bootstrap/bootstrap-reboot.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/bootstrap/bootstrap.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/font-awesome.min.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/jquery.DonutWidget.min.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/jquerysctipttop.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/linearicons.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/magnific-popup.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/main.css">
+      <publishTime>03/06/2019 22:31:49</publishTime>
+    </File>
+    <File Include="static_files/css/main.map">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/nice-select.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/owl.carousel.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/style.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/css/theme/pages.css">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/fontawesome-webfont.eot">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/fontawesome-webfont.svg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/fontawesome-webfont.ttf">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/fontawesome-webfont.woff">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/fontawesome-webfont.woff2">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/FontAwesome.otf">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/Linearicons-Free.eot">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/Linearicons-Free.svg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/Linearicons-Free.ttf">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/Linearicons-Free.woff">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fonts/Linearicons-Free.woff2">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/fontselect-default.css">
+      <publishTime>03/06/2019 01:55:32</publishTime>
+    </File>
+    <File Include="static_files/img/.DS_Store">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/AluminyumHarf.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/c1.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/c2.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/c3.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/c4.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/d.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/disabled-check.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/disabled-radio.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f1.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f2.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f3.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f4.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f5.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f6.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f7.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/f8.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g1.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g2.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g3.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g4.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g5.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g6.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g7.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/g8.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/primary-check.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/primary-radio.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/success-check.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/elements/success-radio.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/filelikrom.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/header-bg.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/isiklikrom.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/KromHarf.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/logo.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/p1.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/p2.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/p3.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/p4.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/p5.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/p6.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/pleksiharf.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/s1.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/s2.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/s3.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/service-bg.jpg">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/img/StraforHarf.png">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/jquery.fontselect.js">
+      <publishTime>03/06/2019 02:11:11</publishTime>
+    </File>
+    <File Include="static_files/jquery.quickfit.js">
+      <publishTime>03/06/2019 21:15:35</publishTime>
+    </File>
+    <File Include="static_files/js/.DS_Store">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/easing.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/hoverIntent.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/isotope.pkgd.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/jquery.ajaxchimp.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/jquery.counterup.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/jquery.magnific-popup.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/jquery.nice-select.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/jquery.sticky.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/mail-script.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/main.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/owl.carousel.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/parallax.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/slick.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/superfish.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/superfish.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/vendor/bootstrap.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/vendor/jquery-2.2.4.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/js/waypoints.min.js">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/.DS_Store">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/.DS_Store">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/bootstrap-grid.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/bootstrap-reboot.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/bootstrap.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_alert.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_background-variant.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_badge.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_border-radius.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_box-shadow.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_breakpoints.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_buttons.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_caret.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_clearfix.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_float.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_forms.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_gradients.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_grid-framework.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_grid.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_hover.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_image.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_list-group.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_lists.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_nav-divider.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_navbar-align.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_pagination.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_reset-text.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_resize.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_screen-reader.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_size.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_table-row.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_text-emphasis.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_text-hide.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_text-truncate.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_transition.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/mixins/_visibility.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_align.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_background.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_borders.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_clearfix.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_display.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_embed.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_flex.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_float.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_position.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_screenreaders.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_sizing.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_spacing.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_text.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/utilities/_visibility.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_alert.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_badge.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_breadcrumb.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_button-group.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_buttons.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_card.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_carousel.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_close.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_code.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_custom-forms.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_dropdown.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_forms.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_functions.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_grid.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_images.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_input-group.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_jumbotron.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_list-group.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_media.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_mixins.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_modal.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_nav.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_navbar.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_pagination.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_popover.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_print.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_progress.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_reboot.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_root.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_tables.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_tooltip.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_transitions.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_type.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_utilities.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/bootstrap/_variables.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/main.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/.DS_Store">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_elements.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_flexbox.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_footer.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_header.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_home.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_mixins.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_reset.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="static_files/scss/theme/_variables.scss">
+      <publishTime>03/05/2019 22:14:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/06/2019 22:37:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
